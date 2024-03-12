@@ -1,7 +1,5 @@
 import java.util.Scanner;
 public class Main {
-    // TODO:
-    // Finire costruttori con super
     public static void main(String[] args) {
         Veicolo[] mioArray = new Veicolo[3];
         Scanner mioScanner = new Scanner(System.in);
