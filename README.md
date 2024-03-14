@@ -1,4 +1,4 @@
-# Esercitazione User Interface Design - A.A 2023/2024
+# Esercitazioni User Interface Design - A.A 2023/2024
 
 Here there is a proposal solution for UID's exercises.
 
